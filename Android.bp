@@ -1,3 +1,6 @@
+subdirs = [
+    "*"
+]
 prebuilt_hidl_interfaces {
     name: "hidl_audio_agm_pal_interfaces",
     interfaces: [
